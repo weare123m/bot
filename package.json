@@ -9,7 +9,7 @@
   "dependencies": {
     "canvas": "^1.6.10",
     "discord.js": "^11.3.2",
-    "express": "^4.16.3",
+    "express": "^4.17.3",
     "ffmpeg": "0.0.4",
     "ffmpeg-binaries": "^3.2.2-3",
     "fs": "0.0.2",
